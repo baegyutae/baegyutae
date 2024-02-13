@@ -1,6 +1,6 @@
 # Welcome to Baegyutae's GitHub Page! 🚀
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Welcome&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20to%20Baegyutae's%20Page&fontSize=40&animation=blinking)
 
 ## 🌟 Featured Technologies
 
@@ -18,10 +18,14 @@ Feel free to reach out to me via email: ![Gmail](https://shields.io/badge/Gmail-
 
 ## 📚 Blog & Writing
 
-![Velog](https://shields.io/badge/Velog-Blog-green?style=flat&logo=velog&logoColor=white&link=https://velog.io/@qoxowkd0716/posts)
+<a href="https://velog.io/@qoxowkd0716/posts">
+  <img src="https://shields.io/badge/Velog-Blog-green?style=flat&logo=velog&logoColor=white" alt="Velog">
+</a>
 
 ## 🌐 Visitor Count
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaegyutae&count_bg=%230010FF&title_bg=%23555555&icon=furrynetwork.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=150&section=footer)
+[![trophy](https://github-profile-trophy.vercel.app/?username=baegyutae&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baegyutae&theme=dark&background=000000)](https://git.io/streak-stats)
