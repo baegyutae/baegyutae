@@ -2,19 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=BAE%20GYU%20TAE&fontSize=40&fontColor=FFFFFF" alt="Header"/>
 </div>
 
-<div align="left">
+<div align="left" style="display: flex; align-items: center; gap: 10px;">
+  <!-- Visitor Badge -->
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaegyutae&count_bg=%23CFCFCF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false&style=flat-square" alt="Hits" style="height: 30px;"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaegyutae&count_bg=%23CFCFCF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Hits" style="height: 30px;"/>
   </a>
-</div>
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=baegyutae&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
+ <!-- Gmail Badge -->
+<a href="mailto:qoxowkd0716@gmail.com">
+  <img src="https://img.shields.io/badge/qoxowkd0716%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="height: 30px; border-radius: 4px;"/>
+</a>
+
+<!-- Velog Badge -->
+<a href="https://velog.io/@qoxowkd0716/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&labelColor=20C997" alt="Velog" style="height: 30px; border-radius: 4px;"/>
+</a>
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qoxowkd0716)](https://solved.ac/qoxowkd0716/)
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baegyutae&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages"/>
 
 ## Skills
 
