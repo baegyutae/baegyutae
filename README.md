@@ -8,18 +8,11 @@
   </a>
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=baegyutae&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <a href="https://solved.ac/qoxowkd0716/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoxowkd0716" alt="Baekjoon Tier"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=baegyutae&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qoxowkd0716)](https://solved.ac/qoxowkd0716/)
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baegyutae&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages"/>
 
