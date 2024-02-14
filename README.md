@@ -49,6 +49,8 @@
   <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white&round=true" alt="JPA"/>
 </div>
 
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=qoxowkd0716&api_key=waka_337cf78d-dec9-4d45-b26f-d452ec031463)
+
 ## 📊 Github Stats 📈
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
