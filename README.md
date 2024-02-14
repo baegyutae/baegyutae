@@ -43,3 +43,10 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"/>
   </a>
 </div>
+
+## 📊 Github Stats 📈
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=baegyutae&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baegyutae&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages"/>
+</div>
