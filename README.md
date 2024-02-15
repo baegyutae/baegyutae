@@ -15,6 +15,13 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoxowkd0716" alt="Solved.ac/qoxowkd0716"/>
 </a>
 
+📊 Github Stats 📈
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=baegyutae&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baegyutae&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages"/>
+</div>
+
 ## Skills
 
 ### Languages
@@ -28,11 +35,4 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=qoxowkd0716&api_key=waka_337cf78d-dec9-4d45-b26f-d452ec031463)
 
-## 📊 Github Stats 📈
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=baegyutae&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baegyutae&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages"/>
-</div>
