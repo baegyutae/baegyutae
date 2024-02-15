@@ -9,11 +9,15 @@
 - 🌱 I am a novice backend developer.
 - ❤️ I enjoy coding and learning new technologies.
 
+<br/><br/>
+
 🏆 Ranking
 
 <a href="https://solved.ac/qoxowkd0716/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoxowkd0716" alt="Solved.ac/qoxowkd0716"/>
 </a>
+
+<br/><br/>
 
 📊 Github Stats 📈
 
@@ -21,10 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=baegyutae&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baegyutae&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages"/>
 </div>
-
-[![wakatime](https://wakatime.com/badge/user/018da652-929c-44e9-ba97-e067cf1a3a35.svg)](https://wakatime.com/@018da652-929c-44e9-ba97-e067cf1a3a35)
-
-![qoxowkd0716's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qoxowkd0716)
 
 ## Skills
 
@@ -38,5 +38,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white)
-
-
