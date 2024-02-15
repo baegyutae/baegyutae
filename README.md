@@ -29,7 +29,7 @@
 🏆 Ranking
 
 <a href="https://solved.ac/qoxowkd0716/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoxowkd0716" alt="Solved.ac Profile"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoxowkd0716" alt="Solved.ac/qoxowkd0716"/>
 </a>
 
 ## Skills
