@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaegyutae&count_bg=%23CFCFCF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 [![qoxowkd0716@gmail.com](https://img.shields.io/badge/qoxowkd0716%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:qoxowkd0716@gmail.com)
-<a href="https://velog.io/@qoxowkd0716/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&labelColor=20C997" alt="Velog"></a>
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&labelColor=20C997)](https://velog.io/@qoxowkd0716/posts)
 
 ## 🗨️ About me
 
