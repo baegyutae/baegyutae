@@ -9,8 +9,6 @@
 - 🌱 I am a novice backend developer.
 - ❤️ I enjoy coding and learning new technologies.
 
-<br/><br/>
-
 🏆 Ranking
 
 <a href="https://solved.ac/qoxowkd0716/">
