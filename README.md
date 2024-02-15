@@ -1,23 +1,19 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=BAE%20GYU%20TAE&fontSize=40&fontColor=FFFFFF" alt="Header"/>
-</div>
-
-<hr style="margin-top: 20px; margin-bottom: 20px;">
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=BAE%20GYU%20TAE&fontColor=000000&color=gradient&animation=fadeIn)
 
 <div align="left" style="display: flex; align-items: center; gap: 10px;">
   <!-- Visitor Badge -->
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaegyutae&count_bg=%23CFCFCF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Hits" style="height: 30px; border-radius: 4px;"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbaegyutae&count_bg=%23CFCFCF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="Hits" style="height: 25px; border-radius: 4px;"/>
   </a>
 
   <!-- Gmail Badge -->
   <a href="mailto:qoxowkd0716@gmail.com">
-    <img src="https://img.shields.io/badge/qoxowkd0716%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="text-transform: lowercase;"/>
+    <img src="https://img.shields.io/badge/qoxowkd0716%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" style="height: 25px; text-transform: lowercase;"/>
   </a>
 
   <!-- Velog Badge -->
   <a href="https://velog.io/@qoxowkd0716/posts">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&labelColor=20C997" alt="Velog"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&labelColor=20C997" alt="Velog" style="height: 25px;"/>
   </a>
 </div>
 
