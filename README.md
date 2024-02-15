@@ -22,6 +22,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baegyutae&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages"/>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/018da652-929c-44e9-ba97-e067cf1a3a35.svg)](https://wakatime.com/@018da652-929c-44e9-ba97-e067cf1a3a35)
+
+![qoxowkd0716's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qoxowkd0716)
+
 ## Skills
 
 ### Languages
