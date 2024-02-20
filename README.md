@@ -4,8 +4,6 @@
 [![qoxowkd0716@gmail.com](https://img.shields.io/badge/qoxowkd0716%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836)](mailto:qoxowkd0716@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&labelColor=20C997)](https://velog.io/@qoxowkd0716/posts)
 
-연속 커밋 일수: 0일
-
 ## 🗨️ About me
 
 - 🌱 I am a novice backend developer.
