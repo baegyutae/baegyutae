@@ -1,0 +1,24 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정에 실행
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch Commits
+        run: |
+          echo "연속 커밋 일수는 임시로 5일로 설정됩니다."
+          echo "::set-output name=streak::5" # 실제 로직으로 대체 필요
+      - name: Update README
+        run: |
+          STREAK=5 # 이 부분을 실제 연속 커밋 일수를 계산하는 코드로 대체
+          sed -i "s/연속 커밋 일수: [0-9]\+/연속 커밋 일수: $STREAK/" README.md
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "README 업데이트: 연속 커밋 일수"
+          git push
