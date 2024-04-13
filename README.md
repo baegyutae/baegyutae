@@ -6,8 +6,8 @@
 
 ## 🗨️ About me
 
-- 🌱 I am a novice backend developer!!
-- ❤️ I enjoy coding and learning new technologies!!
+- 🌱 I am a novice backend developer!
+- ❤️ I enjoy coding and learning new technologies!
 
 <br/><br/>
 
