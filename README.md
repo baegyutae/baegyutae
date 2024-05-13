@@ -9,15 +9,15 @@
 - 🌱 I am a novice backend developer!!
 - ❤️ I enjoy coding and learning new technologies!!
 
-<br/><br/>
-
 🏆 Ranking
 
 <a href="https://solved.ac/qoxowkd0716/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoxowkd0716" alt="Solved.ac/qoxowkd0716"/>
 </a>
 
-<br/><br/>
+✍️ Blog Posts
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=qoxowkd0716)](https://velog.io/@qoxowkd0716)
 
 📊 Github Stats 📈
 
